@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	float: none;
+	font-size: calc(10vw);
+	text-overflow: ellipsis;
+}
+
+body {
+	background-color: #EEE;
+}
+
+.ImgShow img{
+	width: 9rem;
+}
